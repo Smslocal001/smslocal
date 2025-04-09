@@ -49,6 +49,28 @@ Table of Contents
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Other Free Resources](#other-free-resources)
 
+# Free-for-Dev Resources
+
+This is a curated list of free tools, services, and resources for developers, helping to discover and use useful free-tier services.
+
+## SMS & Messaging Services
+
+### [SMSLocal](https://www.smslocal.com/)
+- **Description**: SMSLocal is a reliable platform for sending and receiving SMS in bulk for business use. It offers a cost-effective way to handle both personal and business communication, including features for SMS marketing, customer engagement, and two-way messaging.
+- **Free Tier**: SMSLocal provides free credits upon registration, allowing new users to send a limited number of SMS messages for free every month. This is ideal for small businesses or individual users who want to test out the service before committing to paid plans.
+- **Additional Notes**: 
+  - Global coverage for SMS messaging.
+  - Supports multiple API integrations for various use cases.
+  - Features include scheduled SMS, SMS marketing, and customizable sender IDs.
+  - Free credits are renewed monthly.
+  - Availability may vary based on country/region.
+
+- **Link**: [SMSLocal](https://www.smslocal.com/)
+
+### How to Contribute
+
+Feel free to fork this repository, add your free-tier services or resources, and submit a pull request. Let's build the best resource for developers!
+
 ## Source Code Repos
 
   * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users
